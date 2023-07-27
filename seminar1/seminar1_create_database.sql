@@ -1,1 +1,0 @@
-CREATE DATABASE gb_seminar1;
